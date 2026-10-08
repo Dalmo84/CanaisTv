@@ -1,3 +1,4 @@
-#EXTM3U
-#EXTINF:-1,Canal
-http://cma6czoxmt:gV6kftV5Bt@198.13.16.172:8081/auth/590542.m3u8
+
+‎#EXTM3U
+‎#EXTINF:-1,Canal
+‎http://198.13.16.172:8081/auth/590542.m3u8?token=gV6kftV5Bt
