@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/multishow.png",Multishow
 https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/multishow.txt
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Globo.png",Globo Nordeste
+https://4195488d7439fad618a1dcb3329f4b20.s23-cloudfront-net.lat/8e8e8b142192ea65/globope.txt
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/A%20Fazenda.png",A Fazenda CAM01
+https://4195488d7439fad618a1dcb3329f4b20.s23-cloudfront-net.lat/8e8e8b142192ea65/afazenda.txt
