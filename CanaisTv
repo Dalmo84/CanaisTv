@@ -1,4 +1,3 @@
-
-‎#EXTM3U
-‎#EXTINF:-1,Canal
-‎http://198.13.16.172:8081/auth/590542.m3u8?token=gV6kftV5Bt
+#EXTM3U
+#EXTINF:-1,Multishow
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/multishow.txt
