@@ -9,5 +9,6 @@ https://6ee5870ba06e9d97cfe34398a1625e0f.s23-cloudfront-net.lat/8e8e8b142192ea65
 #EXTINF:-1 tvg-name="COMBATE" tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Combate.png" group-title="Canais",COMBATE
 https://52d080a3e172c33fd6886a37e7.s23-cloudfront-net.lat/8e8e8b142192ea65/combate.txt
 
-‎‎#EXTINF:-1 tvg-name="Band" tvg-logo="https://raw.githubusercontent.com/Dalmo84/Meus-videos/refs/heads/main/capas/Band.jpg" group-title="Canais",Band
-‎https://notifyvideo.info/p/creative-video240/713832.mp4?b=1792154488
+#EXTINF:-1,Hora animada
+https://cdn-origin.smartplay.pe/soultv-istv/tracks-v1a1/mono.ts.m3u8
+
